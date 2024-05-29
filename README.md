@@ -24,8 +24,8 @@ This is the frontend of a simple Todo application built using React and Bootstra
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/todo-app.git
-   cd todo-app/todo-app-client
+   git clone https://github.com/akshaydubey102/solulab-Assignment-TodoList.git
+
    ```
 
 ## Getting Started
